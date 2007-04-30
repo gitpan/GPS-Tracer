@@ -488,10 +488,11 @@ data for which you are creating &quot;route&quot; files:
                      -b '2007-29-03 00:00:00'           \
                      -e '2007-15-06 23:59:59'</PRE>
 
-<P>Or, you can pass your own input file, and its CSV format:
+<P>Or, you can pass your own input file, and its CSV format (column
+indexes):
 
 </P>
-<PRE>  ./fetch_and_create -i testing-data/otherfields.csv \
+<PRE>  ./fetch_and_create -i data/otherfields.csv \
                      -f '0,1,2,3'
                      </PRE>
 

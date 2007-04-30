@@ -24,7 +24,7 @@ use File::Spec;
 use Date::Calc qw( Add_Delta_Days );
 use GD::Graph::hbars;
 
-$VERSION = 1.1;
+$VERSION = '1.1.1';
 $Revision  = '$Id: Tracer.pm,v 1.1 2007/04/29 02:00:42 senger Exp $';
 
 #-----------------------------------------------------------------

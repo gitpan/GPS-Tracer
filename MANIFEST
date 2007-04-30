@@ -3,12 +3,12 @@ data/otherfields.csv
 data/small.csv
 docs/examples/data/output-all.xml
 docs/examples/data/output-chart.png
-docs/examples/data/output-distance.xml
 docs/examples/data/output-guardian-raw.csv
 docs/examples/data/output-oneperday.xml
 docs/examples/data/output-ozi.wpt
 docs/examples/data/output-summary.xml
 docs/examples/data/output.csv
+docs/examples/data/output-distance.xml
 docs/examples/data/pois.xml
 docs/examples/example.css
 docs/examples/example.html
