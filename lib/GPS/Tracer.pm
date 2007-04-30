@@ -4,7 +4,7 @@
 #          Kim Senger <senger.kim@gmail.com>
 # For copyright and disclaimer see below.
 #
-# $Id: Tracer.pm,v 1.1 2007/04/29 02:00:42 senger Exp $
+# $Id: Tracer.pm,v 1.2 2007/04/30 21:52:10 senger Exp $
 #-----------------------------------------------------------------
 
 package GPS::Tracer;
@@ -24,8 +24,8 @@ use File::Spec;
 use Date::Calc qw( Add_Delta_Days );
 use GD::Graph::hbars;
 
-$VERSION = '1.1.1';
-$Revision  = '$Id: Tracer.pm,v 1.1 2007/04/29 02:00:42 senger Exp $';
+$VERSION = '1.2';
+$Revision  = '$Id: Tracer.pm,v 1.2 2007/04/30 21:52:10 senger Exp $';
 
 #-----------------------------------------------------------------
 # A list of allowed attribute names.
